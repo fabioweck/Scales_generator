@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674419062 source:c:\users\fabio\onedrive\documentos\bow valley\sodv1101 - programming fundamentals\for treinos\vectors\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
